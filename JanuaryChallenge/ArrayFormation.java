@@ -1,3 +1,5 @@
+package JanuaryChallenge;
+
 public class ArrayFormation {
     private static boolean canFormArray(int[] arr, int[][] pieces){
         int[] index = new int[101];
